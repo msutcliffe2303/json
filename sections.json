@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "name": "Artificial Intelligence",
+      "parent_id": 1
+    },
+    {
+      "id": 2,
+      "name": "Cybersecurity",
+      "parent_id": 1
+    },
+    {
+      "id": 3,
+      "name": "Mental Health",
+      "parent_id": 2
+    },
+    {
+      "id": 4,
+      "name": "Nutrition & Diet",
+      "parent_id": 2
+    },
+    {
+      "id": 5,
+      "name": "Climate Change",
+      "parent_id": 3
+    },
+    {
+      "id": 6,
+      "name": "Renewable Energy",
+      "parent_id": 3
+    },
+    {
+      "id": 7,
+      "name": "Global Markets",
+      "parent_id": 4
+    },
+    {
+      "id": 8,
+      "name": "Entrepreneurship",
+      "parent_id": 4
+    },
+    {
+      "id": 9,
+      "name": "Literature",
+      "parent_id": 5
+    },
+    {
+      "id": 10,
+      "name": "Visual Arts",
+      "parent_id": 5
+    },
+    {
+      "id": 11,
+      "name": "Music",
+      "parent_id": 5
+    }
+  ]
+  

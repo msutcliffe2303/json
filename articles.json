@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "name": "The Rise of AI in Everyday Life",
+      "parent_id": 1
+    },
+    {
+      "id": 2,
+      "name": "AI and the Future of Work",
+      "parent_id": 1
+    },
+    {
+      "id": 3,
+      "name": "Ethical Implications of AI",
+      "parent_id": 1
+    },
+    {
+      "id": 4,
+      "name": "Machine Learning vs. Deep Learning",
+      "parent_id": 1
+    },
+    {
+      "id": 5,
+      "name": "AI in Healthcare",
+      "parent_id": 1
+    },
+    {
+      "id": 6,
+      "name": "The Importance of Cyber Hygiene",
+      "parent_id": 2
+    },
+    {
+      "id": 7,
+      "name": "Data Breaches and Their Impact",
+      "parent_id": 2
+    },
+    {
+      "id": 8,
+      "name": "Mental Health in the Workplace",
+      "parent_id": 3
+    },
+    {
+      "id": 9,
+      "name": "The Connection Between Diet and Mental Health",
+      "parent_id": 4
+    },
+    {
+      "id": 10,
+      "name": "How Climate Change is Affecting Global Weather Patterns",
+      "parent_id": 5
+    },
+    {
+      "id": 11,
+      "name": "The Future of Solar Power",
+      "parent_id": 6
+    },
+    {
+      "id": 12,
+      "name": "Understanding Global Market Trends",
+      "parent_id": 7
+    },
+    {
+      "id": 13,
+      "name": "The Challenges of Starting a New Business",
+      "parent_id": 8
+    },
+    {
+      "id": 14,
+      "name": "Exploring Modern Literature",
+      "parent_id": 9
+    },
+    {
+      "id": 15,
+      "name": "The Evolution of Abstract Art",
+      "parent_id": 10
+    },
+    {
+      "id": 16,
+      "name": "The Influence of Classical Music on Modern Genres",
+      "parent_id": 11
+    }
+  ]
+  
